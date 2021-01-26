@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi there, I'm Emilia. Let's connect!](https://github.com/emilia-m26/emilia-m26/raw/main/github-intro.gif)
 
 <!--
 **emilia-m26/emilia-m26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
